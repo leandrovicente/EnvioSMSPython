@@ -1,4 +1,4 @@
-# Leitura e busca de mensagens no Twitter.
+# ENVIO SMS PYTHON VIA TeleSign
 - Leandro - 1802049
 - Lucas - 1800671
 - Fernanda -1800229
